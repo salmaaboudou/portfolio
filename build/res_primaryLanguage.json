@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": " E-commerce page",
-        "startDate": "2022",
+        "startDate": "déc. 2022",
         "description": "Le projet le plus développé sur lequel j'ai travaillé. Ce projet m'a permis d'utiliser React, ce qui a été un véritable défi pour moi.",
         "images": [
           "images/portfolio/ecommerce-page/p1.png",
@@ -33,7 +33,7 @@
       },
       {
         "title": "IP Address tracker",
-        "startDate": "2022",
+        "startDate": "sept. 2022",
         "description": "L'un des premiers projets sur lesquels j'ai travaillé. Celui-ci m'a permis de mettre en pratique mes connaissances en Javascript.",
         "images": [
           "images/portfolio/ip-address-tracker/p1.png",
@@ -53,7 +53,7 @@
       },
       {
         "title": "Signup form",
-        "startDate": "2021",
+        "startDate": "sept. 2022",
         "description": "Il s'agit d'un des premiers projets sur lesquels j'ai travaillé. Celui-ci m'a permis de mettre en pratique mes connaissances en Javascript.",
         "images": [
           "images/portfolio/signup-form/p1.png",

@@ -32,7 +32,7 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
+	height: 100% !important;
 	min-height: 450px;
 	width: 100%;
 	background-size: cover;
@@ -97,8 +97,8 @@ header {
 .language {
 	font-size: 25px;
 	background-color: #FEFCE0;
-	padding-bottom: 70px;
-	padding-top: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 header h1 {
@@ -107,7 +107,7 @@ header h1 {
 	font-weight: 600 !important;
 	color: #353239;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	margin: 0 auto 18px auto;
+	margin-bottom: -70px !important;
 	width: 100%;
 }
 
