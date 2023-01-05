@@ -1,0 +1,103 @@
+{
+    "basic_info": {
+      "description_header": "Coucou",
+      "description": "👋 Je suis Salma, une ancienne étudiante en neurosciences en reconversion professionnelle dans le développement web. Passionnée par ce domaine, j'ai décidé de me lancer dans l'apprentissage en autodidacte après avoir obtenu ma licence. Aujourd'hui, je suis en train de suivre une formation pour consolider mes connaissances et devenir une développeuse web fullstack professionnelle. Je suis motivée et enthousiaste à l'idée de mettre mes compétences et mon savoir-faire au service de projets passionnants. 💜 Je vous invite à découvrir mes projets, qui vous donneront un aperçu de mon parcours et de mes compétences. ⬇️",
+      "section_name": {
+        "about": "à propos",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Experiences"
+      }
+    },
+    "projects": [
+      {
+        "title": " E-commerce page",
+        "startDate": "2022",
+        "description": "Le projet le plus développé sur lequel j'ai travaillé. Ce projet m'a permis d'utiliser React, ce qui a été un véritable défi pour moi.",
+        "images": [
+          "images/portfolio/ecommerce-page/p1.png",
+          "images/portfolio/ecommerce-page/p2.png"
+        ],
+        "url": "https://salmaaboudou.github.io/ecommerce-sneakers/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+
+        ]
+      },
+      {
+        "title": "IP Address tracker",
+        "startDate": "2022",
+        "description": "L'un des premiers projets sur lesquels j'ai travaillé. Celui-ci m'a permis de mettre en pratique mes connaissances en Javascript.",
+        "images": [
+          "images/portfolio/ip-address-tracker/p1.png",
+          "images/portfolio/ip-address-tracker/p2.png"
+        ],
+        "url": "https://salmaaboudou.github.io/ip-address-tracker/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Signup form",
+        "startDate": "2021",
+        "description": "Il s'agit d'un des premiers projets sur lesquels j'ai travaillé. Celui-ci m'a permis de mettre en pratique mes connaissances en Javascript.",
+        "images": [
+          "images/portfolio/signup-form/p1.png",
+          "images/portfolio/signup-form/p2.png"
+        ],
+        "url": "https://salmaaboudou.github.io/intro-component-with-signup-form/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Openclassrooms",
+        "title": "Formation de Développeur web",
+        "years": "en cours",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Git/Github",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "Les API REST"
+        ]
+      },
+      {
+        "company": "Aix-Marseille université",
+        "title": "Licence de Neurosciences",
+        "years": "2019 - 2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "neurosciences"
+        ]
+      }
+    ]
+  }

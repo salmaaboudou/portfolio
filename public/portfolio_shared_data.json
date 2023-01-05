@@ -1,0 +1,60 @@
+{
+    "basic_info": {
+      "name": "Salma Aboudou",
+      "titles": [ "Développeuse web junior"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/salmaaboudou?tab=repositories",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/salma.codes/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/salma-aboudou/",
+          "class": "fab fa-linkedin"
+        }
+        
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+
+      ]
+    }
+  }

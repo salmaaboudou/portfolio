@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am Salma, a former neuroscience student who is now transitioning into a career in web development. I am passionate about this field and decided to teach myself after completing my bachelor's degree. Currently, I am taking a course to strengthen my skills and become a professional full-stack web developer. I am motivated and excited to use my skills and knowledge to work on exciting projects. 💜 I invite you to check out my projects, which will give you an idea of my journey and skills. Feel free to contact me if you have any questions or if you would like to learn more about my work. ⬇️",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experiences"
+    }
+  },
+  "projects": [
+    {
+      "title": "E-commerce page",
+      "startDate": "2022",
+      "description": "This is most advanced project that I have worked on. This project allowed me to use React, which was a real challenge for me.",
+      "images": [
+        "images/portfolio/ecommerce-page/p1.png",
+        "images/portfolio/ecommerce-page/p2.png"
+      ],
+      "url": "https://salmaaboudou.github.io/ecommerce-sneakers/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+
+      ]
+    },
+    {
+      "title": "IP Address tracker",
+      "startDate": "2022",
+      "description": "One of the first projects that I worked on. This one allowed me to put my knowledge of JavaScript into practice.",
+      "images": [
+        "images/portfolio/ip-address-tracker/p1.png",
+        "images/portfolio/ip-address-tracker/p2.png"
+      ],
+      "url": "https://salmaaboudou.github.io/ip-address-tracker/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Signup form",
+      "startDate": "2021",
+      "description": "This is one of the first projects I worked on. It allowed me to put my knowledge of Javascript into practice.",
+      "images": [
+        "images/portfolio/signup-form/p1.png",
+        "images/portfolio/signup-form/p2.png"
+      ],
+      "url": "https://salmaaboudou.github.io/intro-component-with-signup-form/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Openclassrooms",
+      "title": "Web development Bootcamp",
+      "years": "ongoing",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git/Github",
+        "NodeJS",
+        "Express",
+        "MongoDB",
+        "Les API REST"
+      ]
+    },
+    {
+      "company": "Aix-Marseille university",
+      "title": "Bachelor's degree in Neuroscience",
+      "years": "2019 - 2022",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        "neurosciences"
+      ]
+    }
+  ]
+}
