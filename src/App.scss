@@ -1,6 +1,7 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700;9..144,900&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -20,9 +21,9 @@ html {
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
-	font-size: 250%;
-	font-weight: bold;
+	font-family: 'Fraunces', serif;
+	font-size: 230%;
+	font-weight: 500;
 }
 
 .header-icon {
@@ -73,7 +74,7 @@ header {
 	}
 
 	.title-styles {
-		font-family: 'Raleway', sans-serif;
+		font-family: 'Fraunces', serif;
 		font-size: 200% !important;
 		font-weight: bold;
 	}
@@ -93,7 +94,7 @@ header {
 
 .project-date {
 	font-size: 16px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: Helvetica Neue, Arial, sans-serif;
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
@@ -119,11 +120,11 @@ header {
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 330%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: #000000;
+	font-family: Helvetica Neue, Arial, sans-serif;;
 	margin-bottom: -70px !important;
 	width: 100%;
 }
@@ -179,6 +180,7 @@ body[data-theme=light] .awssld {
 	color: black;
 	text-align: center;
 	font-weight: bold;
+	font-family: 'Fraunces', serif;
 }
 
 .foto img {
@@ -230,7 +232,8 @@ body[data-theme=light] .awssld {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Fraunces', serif;
+	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -269,7 +272,8 @@ body[data-theme=light] .awssld {
 }
 
 .font-trebuchet {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: Helvetica Neue, Arial, sans-serif;
+	font-weight: 700;
 }
 
 #preview {
@@ -304,7 +308,7 @@ body[data-theme=light] .awssld {
 	background-color: #AE944F !important;
 	color: white;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: Helvetica Neue, Arial, sans-serif;
 }
 
 .experience-badge {
@@ -314,13 +318,19 @@ body[data-theme=light] .awssld {
 	vertical-align: baseline;
 	background-color: #AF91DB!important;
 	color: black;
-	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: Helvetica Neue, Arial, sans-serif;
+	font-weight: 500;
 }
 
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+	
+}
+
+.vertical-timeline-element-title{
+	font-family: Helvetica Neue, Arial, sans-serif;
+	font-weight: 700;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -464,6 +474,7 @@ body[data-theme=light] .awssld {
 	color: black;
 	text-align: center;
 	font-weight: bold;
+	font-family: 'Fraunces', serif;
 }
 
 .section-title.text-white{
