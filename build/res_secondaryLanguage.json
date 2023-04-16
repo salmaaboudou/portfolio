@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I am Salma, a former neuroscience student who is now transitioning into a career in web development. I am passionate about this field and decided to teach myself after completing my bachelor's degree. Currently, I am taking a course to strengthen my skills and become a professional full-stack web developer. I am motivated and excited to use my skills and knowledge to work on exciting projects. 💜 I invite you to check out my projects, which will give you an idea of my journey and skills. Feel free to contact me if you have any questions or if you would like to learn more about my work. ⬇️",
+    "description_header": "Hello",
+    "description": "I'm Salma, a front-end developer passionate about creating web interfaces that are both aesthetic and functional. My experience has allowed me to acquire strong skills in web development, especially in HTML, CSS, JavaScript, and using frameworks such as React and Vue. I'm motivated and enthusiastic about collaborating with you to create innovative and quality projects. I invite you to discover my work below, which will give you an overview of my skills and most recent projects. Feel free to contact me to discuss your needs and see how we can work together. Thank you for visiting and see you soon! 👋🏾",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -60,6 +60,44 @@
         "images/portfolio/signup-form/p2.png"
       ],
       "url": "https://salmaaboudou.github.io/intro-component-with-signup-form/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Booki | Travel agency",
+      "startDate": "fev. 2023",
+      "description": "Booki is a travel agency that allows users to find accommodations and activities in the city of their choice. This was the first project of my web developer training for which I was tasked with integrating the site's interface using HTML and CSS.",
+      "images": [
+        "images/portfolio/booki/booki-c2.png",
+        "images/portfolio/booki/booki-c1.png"
+      ],
+      "url": "https://salmaaboudou.github.io/Projet2_openclassrooms/",
+      "technologies": [
+        {
+          "class": "devicon-html-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-CSS-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Sophia Bluel's portfolio",
+      "startDate": "mar. 2023",
+      "description": "This is the portfolio of an interior architect featuring: the presentation page of the architect's work, the login page for the site administrator, and a modal window for uploading new media.",
+      "images":[
+        "images/portfolio/sophia-bluel/sophia-c1.png",
+        "images/portfolio/sophia-bluel/sophia-c2.png",
+        "images/portfolio/sophia-bluel/sophia-c3.png",
+        "images/portfolio/sophia-bluel/sophia-c4.png"
+      ],
+      "url": "https://github.com/salmaaboudou/Projet3_openclassrooms",
       "technologies": [
         {
           "class": "devicon-javascript-plain",

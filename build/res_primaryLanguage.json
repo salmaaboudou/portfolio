@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Coucou",
-      "description": "👋 Je suis Salma, une ancienne étudiante en neurosciences en reconversion professionnelle dans le développement web. Passionnée par ce domaine, j'ai décidé de me lancer dans l'apprentissage en autodidacte après avoir obtenu ma licence. Aujourd'hui, je suis en train de suivre une formation pour consolider mes connaissances et devenir une développeuse web fullstack professionnelle. Je suis motivée et enthousiaste à l'idée de mettre mes compétences et mon savoir-faire au service de projets passionnants. 💜 Je vous invite à découvrir mes projets, qui vous donneront un aperçu de mon parcours et de mes compétences. ⬇️",
+      "description_header": "Bonjour",
+      "description": "Je suis Salma, une développeuse front-end passionnée par la création d'interfaces web à la fois esthétiques et fonctionnelles. Mon expérience m'a permis d'acquérir des compétences solides en développement web, en particulier en HTML, CSS, JavaScript et en utilisation du framework React. Je suis motivée et enthousiaste à l'idée de collaborer avec vous pour réaliser des projets innovants et de qualité. Je vous invite à découvrir mes réalisations ci-dessous, qui vous donneront un aperçu de mes compétences et de mes projets les plus récents. N'hésitez pas à me contacter pour discuter de vos besoins et voir comment nous pouvons travailler ensemble. Merci de votre visite et à bientôt ! 👋🏾",
       "section_name": {
         "about": "à propos",
         "projects": "Projets",
@@ -60,6 +60,44 @@
           "images/portfolio/signup-form/p2.png"
         ],
         "url": "https://salmaaboudou.github.io/intro-component-with-signup-form/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Booki | Agence de voyage",
+        "startDate": "fév. 2023",
+        "description": "Booki est une agence de voyage qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Il s'agit du premier projet de ma formation de développeur web pour lequel j'ai été chargé d'intégrer l'interface du site en HTML et CSS.",
+        "images": [
+          "images/portfolio/booki/booki-c2.png",
+          "images/portfolio/booki/booki-c1.png"
+        ],
+        "url": "https://salmaaboudou.github.io/Projet2_openclassrooms/",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-CSS-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio de Sophia Bluel",
+        "startDate": "mar. 2023",
+        "description": "Il s'agit du portfolio d'une architecte d'intérieur avec : la page de présentation des travaux de l'architecte, la page de connexion de l'administrateur du site et une modale permettant d'uploader de nouveaux médias.",
+        "images":[
+          "images/portfolio/sophia-bluel/sophia-c1.png",
+          "images/portfolio/sophia-bluel/sophia-c2.png",
+          "images/portfolio/sophia-bluel/sophia-c3.png",
+          "images/portfolio/sophia-bluel/sophia-c4.png"
+        ],
+        "url": "https://github.com/salmaaboudou/Projet3_openclassrooms",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
