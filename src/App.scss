@@ -120,12 +120,11 @@ header {
 }
 
 header h1 {
-	font-size: 330%;
+	font-size: 40px;
 	text-align: center;
 	font-weight: 600 !important;
 	color: #000000;
-	font-family: 'Yeseva One', cursive;
-
+	font-family: 'Parisienne', cursive;
 	margin-bottom: -70px !important;
 	width: 100%;
 }
@@ -275,7 +274,7 @@ body[data-theme=light] .awssld {
 }
 
 .font-trebuchet {
-	font-family: Helvetica Neue, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 }
 
@@ -408,7 +407,9 @@ body[data-theme=light] .awssld {
 	text-align: justify;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+	
 }
 
 .awssld__next {
